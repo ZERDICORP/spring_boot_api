@@ -16,7 +16,7 @@ MariaDB> create database demo;
 MariaDB> exit;
 ```
 
-#### 3. Add file `resources/application.properties` with the following content
+#### 3. Add file `src/main/resources/application.properties` with the following content
 > Replace all values between <>.
 ```
 # Database Configuration
